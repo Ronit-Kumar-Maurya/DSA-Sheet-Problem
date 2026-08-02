@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0075-sort-colors) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0001-two-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
