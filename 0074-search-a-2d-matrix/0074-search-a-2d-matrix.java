@@ -17,9 +17,9 @@ class Solution {
                         low = mid+1;
                     }else{
                         high = mid-1;
-                    }
-                    return false;
+                    } 
                 }
+                return false;
             }else if(target > matrix[midR][n-1]){
     sR = midR + 1;
 }
