@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0073-set-matrix-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -108,4 +110,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
