@@ -3,34 +3,37 @@ class Solution {
         List<Integer> ans = new ArrayList<>();
         int m = matrix.length;//row 
         int n = matrix[0].length;//column
-        int top = 0;
-        int bottom = m - 1;
-        int left = 0;
-        int right = n - 1;
+        int sR = 0;
+        int eR = m - 1;
+        int sC = 0;
+        int eC = n - 1;
 
-        while (top <= bottom && left <= right) {
-            for (int i = left; i <= right; i++) {
-                ans.add(matrix[top][i]);
+        while (sR <= eR && sC <= eC) {
+            for (int j = sC; j <= eC; j++) {
+                ans.add(matrix[sR][j]);
             }
-            top++;
-            for (int i = top; i <= bottom; i++) {
-                ans.add(matrix[i][right]);
+            for (int i = sR+1; i <= eR; i++) {
+                ans.add(matrix[i][eC]);
                 
             }
-            right--;
-            for (int i = right; i >= left; i--){
-                if (top <= bottom) {
-                    ans.add(matrix[bottom][i]);  
+            for (int j = eC-1; j >= sC; j--){
+                if (sR == eR) {
+                    break;
                 }
+                ans.add(matrix[eR][j]);  
             }
-            bottom--;
             
-            for (int i = bottom; i >= top; i--){
-                if (left <= right) {
-                    ans.add(matrix[i][left]);
+            for (int i = eR-1; i >=sR+1; i--){
+                if (sC == eC) {
+                    break;
                 }
+                ans.add(matrix[i][sC]);
             }
-            left++;
+
+            sR++;
+            eR--;
+            sC++;
+            eC--;
         }
         return ans;
     }
