@@ -13,7 +13,7 @@ class Solution {
         int start =0;
         int end = n-1;
 
-        while(start<=end){
+        while(start<end){
             if(!isAlphaNum(s.charAt(start))){
                 start++; continue;
             }
