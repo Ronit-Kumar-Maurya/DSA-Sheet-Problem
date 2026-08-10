@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0242-valid-anagram) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
 |  |
 | ------- |
@@ -146,10 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0054-spiral-matrix) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0042-trapping-rain-water) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
