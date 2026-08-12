@@ -1,7 +1,7 @@
 class Solution {
     public int compress(char[] chars) {
         int idx = 0;
-        for (int i = 0; i < chars.length;) {
+        for (int i = 0; i < chars.length; i++) {
             char ch = chars[i];
             int count = 0;
             while (i < chars.length && ch == chars[i]) {
@@ -18,6 +18,7 @@ class Solution {
                     chars[idx++] = str.charAt(j);
                 }
             }
+            i--;
         }
 
         return idx;
