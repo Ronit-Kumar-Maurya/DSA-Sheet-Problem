@@ -1,33 +1,30 @@
 class Solution {
+
+    boolean isValid(int[] quantities,int x, int shops){
+        for(int product:quantities){
+           shops -=(product+x-1)/x;
+        }
+        if(shops<0){
+            return false;
+        }
+        return true;
+    }
     public int minimizedMaximum(int n, int[] quantities) {
-
-        int low = 1;
-        int high = 0;
-
-        // Maximum possible answer = maximum quantity
-        for (int q : quantities) {
-            high = Math.max(high, q);
+        int st=1;
+        int end=0;
+        int ans = -1;
+        for(int q: quantities){
+            end=Math.max(q,end);
         }
-
-        while (low <= high) {
-
-            int mid = low + (high - low) / 2;
-
-            // Stores required if maximum per store = mid
-            int stores = 0;
-
-            for (int q : quantities) {
-                stores += (q + mid - 1) / mid;
-            }
-
-            // If we can distribute using n or fewer stores
-            if (stores <= n) {
-                high = mid - 1;
-            } else {
-                low = mid + 1;
+        while(st<=end){
+            int mid=st+(end-st)/2;
+            if(isValid(quantities,mid,n)){
+                ans = mid;
+                end = mid-1;
+            }else{
+                st=mid+1;
             }
         }
-
-        return low;
+    return ans;
     }
 }
