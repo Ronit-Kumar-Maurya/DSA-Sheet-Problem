@@ -3,10 +3,22 @@ import java.util.*;
 class Solution {
 
     public boolean isPalin(String s) {
-        String s2 = new StringBuilder(s).reverse().toString();
 
-        return s.equals(s2);
+    int start = 0;
+    int end = s.length() - 1;
+
+    while (start < end) {
+
+        if (s.charAt(start) != s.charAt(end)) {
+            return false;
+        }
+
+        start++;
+        end--;
     }
+
+    return true;
+}
 
     public void getAllParts(String s,
                             List<String> partitions,
