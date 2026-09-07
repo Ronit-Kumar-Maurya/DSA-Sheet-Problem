@@ -2,23 +2,21 @@ import java.util.*;
 
 class Solution {
 
-    public boolean isPalin(String s) {
+    public boolean isPelin(String s) {
+        int start = 0;
+        int end = s.length() - 1;
 
-    int start = 0;
-    int end = s.length() - 1;
+        while (start < end) {
+            if (s.charAt(start) != s.charAt(end)) {
+                return false;
+            }
 
-    while (start < end) {
-
-        if (s.charAt(start) != s.charAt(end)) {
-            return false;
+            start++;
+            end--;
         }
 
-        start++;
-        end--;
+        return true;
     }
-
-    return true;
-}
 
     public void getAllParts(String s,
                             List<String> partitions,
@@ -33,7 +31,7 @@ class Solution {
 
             String part = s.substring(0, i + 1);
 
-            if (isPalin(part)) {
+            if (isPelin(part)) {
 
                 partitions.add(part);
 
