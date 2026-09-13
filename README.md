@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0073-set-matrix-zeroes) |
+| [0141-linked-list-cycle](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0567-permutation-in-string) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0443-string-compression) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
@@ -256,5 +259,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
