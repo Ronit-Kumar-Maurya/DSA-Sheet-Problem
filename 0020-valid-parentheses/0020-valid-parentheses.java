@@ -14,9 +14,9 @@ class Solution {
                 }
 
                 char top = st.peek();
-                if (ch == ')' && top != '(') return false;
-                if (ch == ']' && top != '[') return false;
-                if (ch == '}' && top != '{') return false;
+                if (ch == ')' && top != '(' || 
+                    ch == ']' && top != '[' || 
+                    ch == '}' && top != '{')return false; 
                 st.pop();
             }
         }
