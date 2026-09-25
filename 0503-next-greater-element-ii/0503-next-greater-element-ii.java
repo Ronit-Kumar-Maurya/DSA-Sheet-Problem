@@ -4,11 +4,12 @@ class Solution {
         int[] arr= new int[nums.length];
         int n= nums.length;
         for(int i=2*n-1; i>=0; i--){
-            while(!s.isEmpty() && nums[i%n]>=nums[s.peek()]){
+            int idx=i%n;
+            while(!s.isEmpty() && nums[idx]>=nums[s.peek()]){
                 s.pop();
             }
-            arr[i%n] = s.isEmpty()?-1: nums[s.peek()];
-            s.push(i%n);
+            arr[idx] = s.isEmpty()?-1: nums[s.peek()];
+            s.push(idx);
         }
         return arr;
     }
