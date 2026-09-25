@@ -18,16 +18,16 @@ class MyQueue {
     }
     
     public int pop() {
-        if(empty()){
-            return -1;
-        }
+        // if(empty()){
+        //     return -1;
+        // }
         return s1.pop();
     }
     
     public int peek() {
-        if(empty()){
-            return -1;
-        }
+        // if(empty()){
+        //     return -1;
+        // }
         return s1.peek();
     }
     
