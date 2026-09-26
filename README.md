@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/2073-time-needed-to-buy-tickets) |
 | [2596-check-knight-tour-configuration](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0054-spiral-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/2073-time-needed-to-buy-tickets) |
 | [2596-check-knight-tour-configuration](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/2596-check-knight-tour-configuration) |
 ## Stack
 |  |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0387-first-unique-character-in-a-string) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/2073-time-needed-to-buy-tickets) |
 ## Bracket Sequences
 |  |
 | ------- |
