@@ -14,21 +14,23 @@
  * }
  */
 class Solution {
-    public boolean same(TreeNode root, TreeNode subRoot) {
+    public boolean isSame(TreeNode root, TreeNode subRoot) {
 
         if(root==null || subRoot==null){
             return root==subRoot;
         }
 
-        return same(root.left, subRoot.left) &&
-               same(root.right, subRoot.right) &&
-               root.val == subRoot.val;
+        return root.val == subRoot.val &&
+               isSame(root.left, subRoot.left) &&
+               isSame(root.right, subRoot.right);
+               
     }
+
     public boolean isSubtree(TreeNode root, TreeNode subRoot) {
         if (root == null) return false;
 
         // Current node se tree same hai?
-        if (same(root, subRoot)) {
+        if (root.val==subRoot.val && isSame(root, subRoot)) {
             return true;
         }
 
