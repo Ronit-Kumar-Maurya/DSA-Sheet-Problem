@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0496-next-greater-element-i) |
@@ -316,16 +317,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0234-palindrome-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0232-implement-queue-using-stacks) |
