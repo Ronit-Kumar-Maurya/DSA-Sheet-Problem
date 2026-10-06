@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0572-subtree-of-another-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/2596-check-knight-tour-configuration) |
 ## Prefix Sum
 |  |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0145-binary-tree-postorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -377,10 +379,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0145-binary-tree-postorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## String Matching
 |  |
 | ------- |
