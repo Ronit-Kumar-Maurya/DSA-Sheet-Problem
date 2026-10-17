@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0994-rotting-oranges](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0994-rotting-oranges) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/2073-time-needed-to-buy-tickets) |
 | [2596-check-knight-tour-configuration](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/2596-check-knight-tour-configuration) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0901-online-stock-span) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0901-online-stock-span) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Trie
 |  |
 | ------- |
@@ -397,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
@@ -421,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Search Tree
@@ -431,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## String Matching
 |  |
