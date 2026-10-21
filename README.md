@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0567-permutation-in-string) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0572-subtree-of-another-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0662-maximum-width-of-binary-tree) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0102-binary-tree-level-order-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0994-rotting-oranges](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0994-rotting-oranges) |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0232-implement-queue-using-stacks) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0901-online-stock-span](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
@@ -403,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -430,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0783-minimum-distance-between-bst-nodes) |
