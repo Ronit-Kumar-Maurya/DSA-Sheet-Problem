@@ -41,7 +41,7 @@ public class Codec {
 
     // Deserialize: String -> Binary Tree
     public TreeNode deserialize(String data) {
-        if (data == null || data.isEmpty()) {
+        if (data == "" || data.isEmpty()) {
             return null;
         }
 
