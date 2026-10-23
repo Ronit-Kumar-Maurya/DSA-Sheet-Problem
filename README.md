@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0503-next-greater-element-ii) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0560-subarray-sum-equals-k) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0493-reverse-pairs) |
 ## Greedy
 |  |
@@ -385,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0387-first-unique-character-in-a-string) |
 ## Data Stream
 |  |
@@ -479,4 +484,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0124-binary-tree-maximum-path-sum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
