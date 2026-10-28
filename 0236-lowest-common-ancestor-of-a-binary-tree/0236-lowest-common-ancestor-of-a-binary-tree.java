@@ -14,14 +14,14 @@ class Solution {
         if (root.val == p.val || root.val == q.val) {
             return root;
         }
-        TreeNode leftNode = lowestCommonAncestor(root.left, p, q);
-        TreeNode rightNode = lowestCommonAncestor(root.right, p, q);
-        if (leftNode != null && rightNode != null) {
+        TreeNode leftLCA = lowestCommonAncestor(root.left, p, q);
+        TreeNode rightLCA = lowestCommonAncestor(root.right, p, q);
+        if (leftLCA !=null && rightLCA!=null) {
             return root;
-        } else if (leftNode != null) {
-            return leftNode;
+        } else if (leftLCA != null) {
+            return leftLCA;
         } else {
-            return rightNode;
+            return rightLCA;
         }
     }
 }
