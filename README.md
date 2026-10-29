@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0567-permutation-in-string) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/2596-check-knight-tour-configuration) |
 ## Prefix Sum
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0994-rotting-oranges](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0994-rotting-oranges) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/2596-check-knight-tour-configuration) |
 ## Dancing Links
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -460,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -486,15 +491,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## DP on Trees
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
