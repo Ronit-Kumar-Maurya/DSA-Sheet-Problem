@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -456,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0124-binary-tree-maximum-path-sum) |
