@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0560-subarray-sum-equals-k) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0383-ransom-note](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0567-permutation-in-string) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/1189-maximum-number-of-balloons) |
 ## Data Stream
