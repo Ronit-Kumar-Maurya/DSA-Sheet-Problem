@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0994-rotting-oranges](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0493-reverse-pairs](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## String
