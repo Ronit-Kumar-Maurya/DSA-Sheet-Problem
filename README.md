@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0240-search-a-2d-matrix-ii) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Ronit-Kumar-Maurya/DSA-Sheet-Problem/tree/master/0287-find-the-duplicate-number) |
